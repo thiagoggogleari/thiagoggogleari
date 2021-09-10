@@ -2,6 +2,7 @@
 - 👀 I’m interested iot and programming.
 - 🌱 I’m currently learning python.
 - 📫 thiagoggogleari@gmail.com
+- Hello !
 
 <!---
 thiagoggogleari/thiagoggogleari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
