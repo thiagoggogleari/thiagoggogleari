@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @thiagoggogleari
-- 👀 I’m interested iot and programming.
-- 🌱 I’m currently learning python.
-- 📫 thiagoggogleari@gmail.com
-- 'Okay'
+- 👀 I’m interested microcontrollers, iot and programming languages.
+- 🌱 I’m currently learning python. 🌌
+
+
+
+                        🚀
+    Dare Mighty Things!
+
+📡
+   
 
 <!---
 thiagoggogleari/thiagoggogleari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
