@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagoggogleari
 - 👀 I’m interested microcontrollers, iot and programming languages.
-- 🌱 I’m currently learning python. 🌌
+- 🌱 I’m currently learning python, docker, linux. 🌌
 
 
 
